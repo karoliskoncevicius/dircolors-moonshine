@@ -7,6 +7,14 @@ It is heavily based on and inspired by
 a similar colorscheme by **Sebastian Tramp**. Please visit the original theme
 for both better documentation and alternative (original) version.
 
+## Usage ##
+
+To make *ls* use the color file add this to your `.bashrc`:
+
+    eval `dircolors /path/to/dircolors-moonshine`
+
+And make sure that *ls* is using `--colors=auto`.
+
 ## Colors ##
 
 Here is a sample screenshot displaying the all of the used colors.
