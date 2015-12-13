@@ -69,7 +69,7 @@ stand out.
 * **Special Interest Files** are **white inversed**. This is reserved for files
 that should be noticed and read like READMEs, TODOs, NOTEs.
 
-* **Storange Files** are **light grey**. This includes outputs from various
+* **Storage Files** are **light grey**. This includes outputs from various
 programs and files that can be used as inputs. Mainly files for storing all
 kids of data. Examples are *csv*, *xls*, *sav*.
 
