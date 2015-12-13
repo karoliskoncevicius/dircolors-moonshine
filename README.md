@@ -11,7 +11,7 @@ for both better documentation and alternative (original) version.
 
 To make *ls* use the color file add this to your `.bashrc`:
 
-    eval `dircolors /path/to/dircolors-moonshine`
+    eval `dircolors /path/to/dircolors.moonshine`
 
 And make sure that *ls* is using `--colors=auto`.
 
