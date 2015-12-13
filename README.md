@@ -48,7 +48,7 @@ a great color for media.
 between audio and video consider changing the shade of orange or adding bold
 (like in Solarized)
 
-* **Image Files** are **yellow**. They have similar nation to other *media*
+* **Image Files** are **yellow**. They have similar in nature to other *media*
 files but are more light weight and more frequent. So a lighter tone of
 "orange" (yellow) was chosen for them.
 
