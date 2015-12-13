@@ -126,7 +126,7 @@ Recreated file structure from the same example in *Solarized* theme.
 
 Directory tree (as outputed by `tree`) for a small project.
 
-![TEX](./img/project.png)
+![PROJECT](./img/project.png)
 
 ### Neovim Source ###
 
