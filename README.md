@@ -110,7 +110,7 @@ to match the color of the new category.
 To change colors - change the color string that follows the filetype. In order
 to change the color of the whole category - change it for every filetype inside
 that category separately.
-[Click here for a useful color guide](http://misc.flogisoft.com/bash/tip_colors_and_formatting<Paste>)
+[Click here for a useful color guide](http://misc.flogisoft.com/bash/tip_colors_and_formatting)
 
 ## Screenshots ##
 
