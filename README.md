@@ -132,6 +132,6 @@ Directory tree (as outputed by `tree`) for a small project.
 
 Browsing **[NeoVim](https://github.com/neovim/neovim)** source base.
 
-![TEX](./img/neovim.png)
+![NVIM](./img/neovim.png)
 
 
