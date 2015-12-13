@@ -1,5 +1,15 @@
+# Dircolor colorscheme for GNU ls.
+# author: Karolis Koncevicius
+# license: http://sam.zoy.org/wtfpl/ Do What The Fuck You Want To Public License
+#
+# This dircolors colorscheme is heavily based on and inspired by "Solarized":
+# @author  {@link http://sebastian.tramp.name Sebastian Tramp}
+# @license http://sam.zoy.org/wtfpl/ Do What The Fuck You Want To Public License
+
+
 # Configuration file for dircolors, a utility to help you set the
 # LS_COLORS environment variable used by GNU ls with the --color option.
+
 
 # Term Section
 TERM Eterm
@@ -95,7 +105,6 @@ TERM xterm-termite
 # 48;5;COLOR_NUMBER
 
 # Special files
-
 NORMAL 00;38;5;230 # global default
 FILE   00;38;5;230 # normal file
 DIR    01;38;5;143  # directory
