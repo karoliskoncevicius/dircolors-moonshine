@@ -17,7 +17,7 @@ And make sure that *ls* is using `--colors=auto`.
 
 ## Colors ##
 
-Here is a sample screenshot displaying the all of the used colors.
+Here is a sample screenshot displaying all of the used colors.
 
 ![ALL](./img/all.png)
 
