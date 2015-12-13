@@ -30,9 +30,6 @@ justify being bright. And the green color shows the link is not broken.
 * **Broken Links** are **red inversed**. Same as for Working links, except the
 red color indicates that the link is broken and special attention is needed.
 
-* **Broken Links** are **red inversed**. Same as for Working links, except the
-red color indicates that the link is broken and special attention is needed.
-
 * **Executable Files** are **red**. They are important, executable, with a
 potential to change something. Red to notice.
 
