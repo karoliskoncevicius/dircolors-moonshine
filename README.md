@@ -15,8 +15,8 @@ Here is a sample screenshot displaying the all of the used colors.
 
 Explanation for all the choices:
 
-* **Directories** are **dark green**. This color is easy on the eyes and works
-well for majority of cases when working in terminal, like writing code.
+* **Directories** are **dark green bold**. This color is easy on the eyes and
+works well for majority of cases when working in terminal, like writing code.
 Admittedly they won't stand out among lots of other files. For this reason
 I recommend using this *ls* alias:
 
