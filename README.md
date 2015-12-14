@@ -32,6 +32,10 @@ I recommend using this *ls* alias:
 
 So they are always at the front of ls output.
 
+* **Named Pipes** are **brown inversed**. Special enough being bright (inversed)
+and brown color to suggest that they are related to performing some kind of
+function (see colors for code files below).
+
 * **Working Links** are **light green inversed**. They are special enough to
 justify being bright. And the green color shows the link is not broken.
 
