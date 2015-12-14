@@ -252,6 +252,7 @@ CHR    01;38;5;137 # character device driver
 .c      00;38;5;222
 .lua    00;38;5;222
 .vim    00;38;5;222
+.m      00;38;5;222
 
 # Libraries/Literates/Documentations
 .1      00;38;5;179
@@ -284,6 +285,7 @@ CHR    01;38;5;137 # character device driver
 .RData 00;38;5;245
 .RDATA 00;38;5;245
 .sav   00;38;5;245
+.mat   00;38;5;245
 
 # Special interest
 *README           07;38;5;230
