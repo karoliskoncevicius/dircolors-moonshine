@@ -237,6 +237,7 @@ CHR    01;38;5;137 # character device driver
 # Source code files
 .pl     00;38;5;179
 .PL     00;38;5;179
+.py     00;38;5;179
 .pm     00;38;5;179
 .tt     00;38;5;179
 .yml    00;38;5;179
