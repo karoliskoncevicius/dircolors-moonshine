@@ -266,6 +266,7 @@ CHR    01;38;5;137 # character device driver
 
 # Special sources/configs
 *Makefile 00;38;5;94
+*do       00;38;5;94
 *Doxyfile 00;38;5;94
 *config   00;38;5;94
 .conf     00;38;5;94
