@@ -233,6 +233,7 @@ CHR    01;38;5;137 # character device driver
 .pptx 00;38;5;109
 .odt  00;38;5;109
 .odp  00;38;5;109
+.epub 00;38;5;109
 
 # Source code files
 .pl     00;38;5;179
