@@ -13,13 +13,15 @@ To make *ls* use the color file add this to your `.bashrc`:
 
     eval `dircolors /path/to/dircolors.moonshine`
 
-And make sure that *ls* is using `--colors=auto`.
+And make sure that *ls* is using `--colors=auto`:
+
+`alias ls='ls --group-directories-first --color=auto'`
 
 ## Colors ##
 
 Here is a sample screenshot displaying all of the used colors.
 
-![ALL](./img/all.png)
+![ALL](https://i.sli.mg/KDVqGs.png)
 
 Explanation for all the choices:
 
@@ -48,9 +50,8 @@ potential to change something. Red to notice.
 * **Video Files** are **orange**. This is simply to stand out. Orange felt like
 a great color for media.
 
-* **Audio Files** are **orange**. Same as video. If you need to differentiate
-between audio and video consider changing the shade of orange or adding bold
-(like in Solarized)
+* **Audio Files** are **light orange**. Light orange puts them nicely in between
+the darker video files and yellow image files.
 
 * **Image Files** are **yellow**. They are similar in nature to other *media*
 files but are more light weight and more frequent. So a lighter tone of
@@ -120,22 +121,17 @@ that category separately.
 
 Below are some screenshots.
 
-### Small Tex Example ###
+### Media files ###
 
-Recreated file structure from the same example in *Solarized* theme.
+Messy folder with different media files - with and without coloring.
 
-![TEX](./img/tex.png)
-
-### Small Project Example ###
-
-Directory tree (as outputed by `tree`) for a small project.
-
-![PROJECT](./img/project.png)
+![Media](https://i.sli.mg/FOFUJy.png)
 
 ### Neovim Source ###
 
-Browsing **[NeoVim](https://github.com/neovim/neovim)** source base.
+Browsing **[NeoVim](https://github.com/neovim/neovim)** source base. With and
+without coloring.
 
-![NVIM](./img/neovim.png)
+![NVIM](https://i.sli.mg/Fk97KK.png)
 
 
