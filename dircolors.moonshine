@@ -108,7 +108,7 @@ TERM xterm-termite
 # Special files
 NORMAL 00;38;5;230 # global default
 FILE   00;38;5;230 # normal file
-DIR    01;38;5;143  # directory
+DIR    01;38;5;143 # directory
 LINK   07;38;5;106 # symbolic link. ('target'=the color for the file pointed to)
 ORPHAN 07;38;5;160 # symlink to nonexistent file
 FIFO   07;38;5;137 # pipe

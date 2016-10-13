@@ -134,4 +134,10 @@ without coloring.
 
 ![NVIM](https://i.sli.mg/Fk97KK.png)
 
+## You May Also Like ##
+
+Similar themes are available for a few other terminal programs:
+
+1. [Moonshine for vim text editor](https://github.com/KKPMW/moonshine-vim)
+2. [Moonshine for mutt email client](https://github.com/KKPMW/moonshine-mutt)
 
