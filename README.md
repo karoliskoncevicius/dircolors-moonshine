@@ -21,7 +21,7 @@ And make sure that *ls* is using `--colors=auto`:
 
 Here is a sample screenshot displaying all of the used colors.
 
-![ALL](https://i.sli.mg/KDVqGs.png)
+![ALL](https://i.imgur.com/BgOIH8z.png)
 
 Explanation for all the choices:
 
@@ -125,7 +125,7 @@ Below are some screenshots.
 
 Messy folder with different media files - with and without coloring.
 
-![Media](https://i.sli.mg/FOFUJy.png)
+![Media](https://i.imgur.com/qlQB4PG.png)
 
 ### Neovim Source ###
 
