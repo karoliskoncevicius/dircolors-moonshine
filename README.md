@@ -132,7 +132,7 @@ Messy folder with different media files - with and without coloring.
 Browsing **[NeoVim](https://github.com/neovim/neovim)** source base. With and
 without coloring.
 
-![NVIM](https://i.sli.mg/Fk97KK.png)
+![NVIM](https://i.imgur.com/fT6RRhu.png)
 
 ## You May Also Like ##
 
