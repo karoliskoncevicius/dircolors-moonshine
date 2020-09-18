@@ -138,6 +138,5 @@ without coloring.
 
 Similar themes are available for a few other terminal programs:
 
-1. [Moonshine for vim text editor](https://github.com/KKPMW/moonshine-vim)
-2. [Moonshine for mutt email client](https://github.com/KKPMW/moonshine-mutt)
+1. [Moonshine for vim text editor](https://github.com/karoliskoncevicius/moonshine-vim)
 
